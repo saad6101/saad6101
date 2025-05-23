@@ -8,13 +8,13 @@ https://skillicons.dev/icons?i=svelte,rust,ts,nodejs,pnpm,vite,neovim&perline=15
 ## Great At
 
 ![Great At](
-https://skillicons.dev/icons?i=c,cs,cpp,css,html,js,express,react,tailwind,r,vscode,solidjs,nextjs&perline=15)
+https://skillicons.dev/icons?i=c,cs,cpp,css,html,js,express,react,solidjs,nextjs,tailwind,r,vscode&perline=15)
 
 
 ## Proficient At
 
 ![Decent / Proficient At](
-https://skillicons.dev/icons?i=sass,regex,py,prisma,postman,ocaml,kotlin,docker,dart,arduino,androidstudio&perline=15
+https://skillicons.dev/icons?i=kotlin,py,dart,sass,regex,prisma,docker,postman,arduino,androidstudio&perline=15
 )
 
 ## Want to Learn
