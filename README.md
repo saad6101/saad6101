@@ -2,7 +2,7 @@
 
 ![Love Using](https://skillicons.dev/icons?i=svelte,rust,ts)
 
-![Love Using](https://skillicons.dev/icons?i=odejs,pnpm,vite,neovim)
+![Love Using](https://skillicons.dev/icons?i=nodejs,pnpm,vite,neovim)
 
 
 ## Great At
