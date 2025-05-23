@@ -1,3 +1,3 @@
 ## Love Using
 
-[![Love Using](https://skillicons.dev/icons?i=svelte,rust.ts,neovim)](https://skillicons.dev)
+[![Love Using](https://skillicons.dev/icons?i=svelte,rust.ts,neovim)]
