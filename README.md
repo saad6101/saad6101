@@ -11,7 +11,7 @@ https://skillicons.dev/icons?i=svelte,rust,ts,nodejs,pnpm,vite,neovim&perline=15
 https://skillicons.dev/icons?i=c,cs,cpp,css,html,js,express,react,tailwind,r,vscode,solidjs,nextjs&perline=15)
 
 
-## Decent / Proficient At
+## Proficient At
 
 ![Decent / Proficient At](
 https://skillicons.dev/icons?i=sass,regex,py,prisma,postman,ocaml,kotlin,docker,dart,arduino,androidstudio&perline=15
