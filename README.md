@@ -8,13 +8,14 @@
 ## Great At
 
 ![Great At](https://skillicons.dev/icons?i=c,cs,cpp,css,html,js)
+
 ![Great At](https://skillicons.dev/icons?i=express,react,solidjs,nextjs,tailwind,r,vscode)
 
 ## Proficient At
 
-![Decent / Proficient At](
-https://skillicons.dev/icons?i=kotlin,py,dart,regex,sass,prisma,docker,postman,arduino,androidstudio&perline=15
-)
+![Decent / Proficient At](https://skillicons.dev/icons?i=sass,prisma,docker,postman,arduino,androidstudio&perline=15)
+
+![Decent / Proficient At](https://skillicons.dev/icons?i=kotlin,py,dart,regex)
 
 ## Want to Learn
 
