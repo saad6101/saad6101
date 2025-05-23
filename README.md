@@ -11,8 +11,8 @@
 
 ## Proficient At
 
-![Decent / Proficient At](https://skillicons.dev/icons?i=sass,prisma,docker,postman,arduino,androidstudio&perline=15)
-![Decent / Proficient At](https://skillicons.dev/icons?i=kotlin,py,dart,regex)
+![Decent / Proficient At](https://skillicons.dev/icons?i=sass,prisma,docker,postman,arduino&perline=15)
+![Decent / Proficient At](https://skillicons.dev/icons?i=kotlin,py,dart,regex,androidstudio)
 
 ## Want to Learn
 
