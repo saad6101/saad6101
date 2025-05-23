@@ -14,4 +14,6 @@
 
 ## Want to Learn
 
-![Wanna Learn](https://skillicons.dev/icons?i=wasm,vue,vuetify,unreal,ubuntu,swift,scala,remix,redux,redis,pytorch,ocaml,lua,lit,linux,htmx,haskell,go,graphql,elixir,dotnet,bash,astro,alpinejs)
+![Wanna Learn](
+https://skillicons.dev/icons?i=wasm,vue,vuetify,unreal,ubuntu,swift,scala,remix,redux,redis,pytorch,ocaml,lua,lit,linux,htmx,haskell,go,graphql,elixir,dotnet,bash,astro,alpinejs
+)
