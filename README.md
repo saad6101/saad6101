@@ -1,7 +1,6 @@
 ## Love Using
 
 ![Love Using](https://skillicons.dev/icons?i=svelte,rust,ts)
-
 ![Love Using](https://skillicons.dev/icons?i=nodejs,pnpm,vite,neovim)
 
 
