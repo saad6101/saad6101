@@ -20,5 +20,7 @@ https://skillicons.dev/icons?i=kotlin,py,dart,regex,sass,prisma,docker,postman,a
 ## Want to Learn
 
 ![Wanna Learn](
-https://skillicons.dev/icons?i=go,dotnet,swift,wasm,ocaml,redux,astro,vue,alpinejs,remix,lit,htmx,scala,lua,haskell,elixir,graphql,redis,pytorch,bash,unreal,linux&perline=12
+https://skillicons.dev/icons?i=go,dotnet,swift,wasm,ocaml,redux,astro
 )
+![Wanna Learn](https://skillicons.dev/icons?i=,vue,alpinejs,remix,lit,htmx,scala,lua,haskell,elixir,graphql,redis,pytorch,bash,unreal,linux&perline=12)
+
