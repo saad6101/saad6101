@@ -14,7 +14,7 @@ https://skillicons.dev/icons?i=c,cs,cpp,css,html,js,express,react,solidjs,nextjs
 ## Proficient At
 
 ![Decent / Proficient At](
-https://skillicons.dev/icons?i=kotlin,py,dart,sass,regex,prisma,docker,postman,arduino,androidstudio&perline=15
+https://skillicons.dev/icons?i=kotlin,py,dart,regex,sass,prisma,docker,postman,arduino,androidstudio&perline=15
 )
 
 ## Want to Learn
