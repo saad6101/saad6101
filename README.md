@@ -5,4 +5,4 @@
 
 ## Great At
 
-![Great At](https://skillicons.dev/icons?i=cs,cpp,css,html,c,express,js,react,r,tailwind,vscode)
+![Great At](https://skillicons.dev/icons?i=c,cs,cpp,css,html,js,express,react,tailwind,r,vscode)
