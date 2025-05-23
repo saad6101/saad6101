@@ -19,3 +19,4 @@
 ![Wanna Learn](https://skillicons.dev/icons?i=go,dotnet,swift,wasm,ocaml,redux,astro)
 ![Wanna Learn](https://skillicons.dev/icons?i=vue,alpinejs,remix,lit,htmx,scala,lua,haskell,elixir,graphql,redis,pytorch,bash,unreal,linux&perline=16)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
